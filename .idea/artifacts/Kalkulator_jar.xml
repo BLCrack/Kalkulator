@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kalkulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kalkulator_jar</output-path>
+    <root id="archive" name="Kalkulator.jar">
+      <element id="module-output" name="Kalkulator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-lang3-3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mxparser.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
